@@ -6,13 +6,28 @@ This project will focus on mainly drought conditions in Turkey. Reanlyses and ob
 
 Qs:
 
-1. 
+1. Drought monitoring is the most commonly evaluated by drought index, but some of them is not applicable for certain areas. What is the best one for Turkey or Mediterranean region?
+
+2. Will we achieve same results with observations and reanlyses over the intented project area?
+
+3. What is the best way to manipulate and make the observation data sets ready? 
+
+4. 
 
 
 ## Methodology
 
-The following python libraries will be useful in the project:
-+ SciPy ecosystem (Numpy, Scipy, Pandas etc...) 
+Standardized Precipitation Index (SPI)
+Trend and Anomaly Analyses
+Heatmap of Global Temperature Anomaly
+.....
+
+Reanaylses:
+ERA5 - European Centre for Medium-Range Weather Forecasts_ECMWF https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
+
+Observations 
+National Oceanic and Atmospheric Administration_NOAA (https://www.ncdc.noaa.gov/cdo-web/datasets#GHCND)
+Turkish Met Office https://mevbis.mgm.gov.tr/mevbis/ui/index.html#/Login "As a PhD student, it can be downloaded at no charge by request." 
 
 ## Addtional works
 

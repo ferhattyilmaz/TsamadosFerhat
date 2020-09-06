@@ -2,7 +2,7 @@
 
 ## Project
 
-This project will focus on mainly drought conditions in Turkey. Reanlyses and observation data setes will be used to understand what are the differences and similarities between data sets, and regional forecasting/modelling data sets will be used to estimate drought conditions in the future. As a part of big PhD thesis, these all will help to improve the polciy side of drought management. There are some questions to be aware of what we want to focus on. 
+This project will focus on mainly drought conditions in Turkey. Reanalyses and observation data setes will be used to understand what are the differences and similarities between data sets, and regional forecasting/modelling data sets will be used to estimate drought conditions in the future. As a part of big PhD thesis, these all will help to improve the polciy side of drought management. There are some questions to be aware of what we want to focus on. 
 
 Qs:
 
@@ -12,7 +12,7 @@ Qs:
 
 3. What is the best way to manipulate and make the observation data sets ready? 
 
-4. 
+4. Which part of procet area were affected mostly by dorught? and where will be the most sensetive in the future?
 
 
 ## Methodology

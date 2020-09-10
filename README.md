@@ -2,36 +2,42 @@
 
 ## Project
 
-This project will focus on mainly drought conditions in Turkey. Reanalyses and observation data setes will be used to understand what are the differences and similarities between data sets, and regional forecasting/modelling data sets will be used to estimate drought conditions in the future. As a part of big PhD thesis, these all will help to improve the polciy side of drought management. There are some questions to be aware of what we want to focus on. 
+This project will focus on mainly drought conditions in Turkey. Reanalyses and observation data sets will be used to understand what are the differences and similarities between data sets, and regional forecasting/modeling data sets will be used to estimate drought conditions in the future. As a part of the big Ph.D. thesis, these all will help to improve the policy side of drought management. There are some questions to be aware of what we want to focus on. 
 
 Qs:
 
-1. Drought monitoring is the most commonly evaluated by drought index, but some of them is not applicable for certain areas. What is the best one for Turkey or Mediterranean region?
+1. Drought monitoring is the most commonly evaluated by drought index, but some of them are not applicable to certain areas. What is the best one for Turkey or the Mediterranean region?
 
-2. Will we achieve same results with observations and reanlyses over the intented project area?
+2. Are there any extremes (droughts) in observation data sets?
 
-3. What is the best way to manipulate and make the observation data sets ready? 
+3. What are the trends for the past and future extremes?  
 
-4. Which part of procet area were affected mostly by dorught? and where will be the most sensetive in the future?
+4. Will we achieve the same results with observations and reanalyses over the intended project area?
+
+5. What is the best way to manipulate and make the observation data sets ready? 
+
+6. Which part of the project area were affected mostly by drought? and where will be the most sensitive in the future? Where will be the most tolerant part? 
 
 
 ## Methodology
 
-Standardized Precipitation Index (SPI)
-Trend and Anomaly Analyses
-Heatmap of Global Temperature Anomaly
-.....
+Standardized Precipitation Index (SPI),
+Trend and Anomaly Analyses,
+Heatmap of Global Temperature Anomaly,
+etc.....
 
-Reanaylses:
+Reanalyses:
 ERA5 - European Centre for Medium-Range Weather Forecasts_ECMWF https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
 
 Observations 
 National Oceanic and Atmospheric Administration_NOAA (https://www.ncdc.noaa.gov/cdo-web/datasets#GHCND)
 Turkish Met Office https://mevbis.mgm.gov.tr/mevbis/ui/index.html#/Login "As a PhD student, it can be downloaded at no charge by request." 
 
-## Addtional works
+## Additional works
 
-Additonally, we also aim to anaylse historical observation data set, which rescued and digitized in Istanbul from 1890s to 1910s. 
+Additionally, we also aim to analyze the historical observation data set, which rescued and digitized in Istanbul from the 1890s to 1910s. These data sets include Rainfall (cubic centimeter, and mm), Air Temperature (Fortin Barometer, Max, Min, and Average), Soil Temperature (soil surface, and under soil 0.35m), Air Humidity (wet thermometer, dry thermometer, difference, and humidity), Pressure (Fortin barometer, accurate barometer), and Wind (wind speed (meter)).
+
+This will show us how the local weather observations changed over the last century, any trends, extremes...
 
 
 
